@@ -1,1 +1,1 @@
-# hardware
+# hardwares
